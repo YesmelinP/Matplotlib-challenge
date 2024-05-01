@@ -1,2 +1,2 @@
 # Matplotlib-challenge
-Data Visualizationt-Assignment
+Data Visualization-Assignment
